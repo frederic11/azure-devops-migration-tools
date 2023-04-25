@@ -8,6 +8,7 @@ architecture: <architecture>
 toc: true
 pageStatus: generated
 discussionId: 
+redirect_to: https://nkdagility.com/learn/azure-devops-migration-tools/Reference/v2/FieldMaps/
 ---
 
 

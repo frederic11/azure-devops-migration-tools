@@ -5,6 +5,7 @@ pageType: index
 toc: true
 pageStatus: production
 discussionId: 
+redirect_to: https://nkdagility.com/learn/azure-devops-migration-tools/Reference/v2/MappingTools/
 ---
 
 >**_This documentation is for a preview version of the Azure DevOps Migration Tools._ If you are not using the preview version then please head over to the main [documentation](https://nkdagility.com/docs/azure-devops-migration-tools).**
