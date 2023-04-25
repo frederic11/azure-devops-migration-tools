@@ -6,6 +6,8 @@ toc: true
 pageStatus: production
 discussionId: 
 redirect_to: https://nkdagility.com/learn/azure-devops-migration-tools/Reference/
+redirect_from: 
+ - /azure-devops-migration-tools/azure-devops-migration-tools/Reference/
 ---
 
 
